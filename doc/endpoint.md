@@ -2,6 +2,6 @@
 
 Name | base endpoint
 ------------ | ------------
-rest-api | **[https://api.bhex.com](https://api.bhex.com)**
-web-socket-streams | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
-user-data-stream | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
+rest-api | **[https://api.oak.exchange](https://api.oak.exchange)**
+web-socket-streams | **[wss://wsapi.oak.exchange](wss://wsapi.oak.exchange)**
+user-data-stream | **[wss://wsapi.oak.exchange](wss://wsapi.oak.exchange)**
